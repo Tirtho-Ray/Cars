@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "brand": "Lamborghini",
+      "photo": "https://i.ibb.co/3cRzk6T/download-1.jpg"
+    },
+    {
+      "id": 2,
+      "brand": "Ford",
+      "photo": "https://i.ibb.co/FscqMng/download-1.png"
+    },
+    {
+      "id": 3,
+      "brand": "Tesla",
+      "photo": "https://i.ibb.co/jvXtkp8/download-2.jpg"
+    },
+    {
+      "id": 4,
+      "brand": "Bmw",
+      "photo": "https://i.ibb.co/87x234H/download-3.jpg"
+    },
+    {
+      "id": 5,
+      "brand": "Marcasite",
+      "photo": "https://i.ibb.co/2SBKSdJ/download.jpg"
+    },
+    {
+      "id": 6,
+      "brand": "Toyota",
+      "photo": "https://i.ibb.co/tJ0BjNx/download.png"
+    }
+  ]
+  

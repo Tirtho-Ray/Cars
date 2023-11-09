@@ -1,0 +1,44 @@
+*,*:after&:before{
+    content: '';
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background: $bdy;
+    top: 54px;
+    left: 18px;
+    animation: pam 1s infinite alternate;
+  }
+}
+
+.leg{
+  width: 22px;
+  background: #000;
+  height: 50px;
+  margin-left: 10px;
+  margin-bottom: 45px;
+  position: relative;
+  transform-origin: 100% 0%;
+  animation: leg 1s infinite alternate;
+  .foot { 
+    position:absolute;
+    top: 50px;
+    left: 0;
+    width: 22px;
+    height: 50px;
+    background: #000;
+    transform: rotate(0deg);
+    transform-origin: 100% 0%;
+    border-bottom: 6px solid #fff;
+    border-radius: 0 0 2px 2px;
+    animation: foot 1s infinite alternate;
+    &:before{
+      content: '';
+      position:absolute;
+      top: 50px;
+      left: -1px;
+      height: 13px;
+      width: 42px;
+      background: #000;
+      border-radius: 0 10px 10px;
+}}}
